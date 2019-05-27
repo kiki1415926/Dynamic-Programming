@@ -2,7 +2,7 @@
 
 ![63. Unique Paths II](.gitbook/assets/image%20%281%29.png)
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
 ```text
 class Solution:
@@ -34,5 +34,5 @@ class Solution:
         return space[-1][-1]
 ```
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 

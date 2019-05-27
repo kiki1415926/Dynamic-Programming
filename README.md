@@ -1,6 +1,6 @@
 # 1. Minimum Path Sum
 
-![64. Minimum Path Sum](.gitbook/assets/image%20%284%29.png)
+![64. Minimum Path Sum](.gitbook/assets/image%20%286%29.png)
 
 ```text
 class Solution:
@@ -19,5 +19,5 @@ class Solution:
         return space[-1][-1]
 ```
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
